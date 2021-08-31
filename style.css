@@ -1,31 +1,33 @@
 /* Trees Image - Pexels: https://www.pexels.com/photo/photo-of-trees-in-forest-3801030/ */
-@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Exo+2&display=swap');
 html {
   box-sizing: border-box;
 }
 
 :root {
-  --column-1: #a2622d;
-  --column-2: #1b6161;
-  --column-3: #248224;
-  --column-4: #a22d22;
+  --column-1: #FEC260;
+  --column-2: #5F939A;
+  --column-3: #4AA96C;
+  --column-4: #F05945;
 }
 
 body {
   margin: 0;
   background: url("./background.jpg");
   background-size: cover;
-  background-position: 50% 60%;
-  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 50% 60%; 
+   background-attachment: fixed;
   color: white;
-  font-family: Quicksand, sans-serif;
+  font-family: 'Raleway', sans-serif;
   overflow-y: hidden;
 }
 
 h1 {
-  letter-spacing: 2px;
-  text-shadow: 2px 2px 5px black;
+  letter-spacing: 5px;
+  font-family: 'Exo 2', sans-serif;
+
 }
 
 .main-title {
