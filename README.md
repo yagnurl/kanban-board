@@ -13,3 +13,5 @@
 - The project is built by Vanilla Javascript.
 - Drag&Drop API is used for drag and drop functionality.
 - CSS is used to make better styling.
+
+[![https://github.com/yagnurl/kanban-board/blob/main/screenshot.png](https://github.com/yagnurl/kanban-board/blob/main/screenshot.png "https://https://github.com/yagnurl/kanban-board/blob/main/screenshot.png")](https://github.com/yagnurl/kanban-board/blob/main/screenshot.png "https://github.com/yagnurl/kanban-board/blob/main/screenshot.png")
